@@ -1,0 +1,259 @@
+{
+  "d406df1e": {
+    "id": "d406df1e",
+    "data": {
+      "articles": [
+        {
+          "credibility_score": 60,
+          "id": 1,
+          "labels": [
+            "Natural Language Processing",
+            "Python Programming",
+            "Data Engineering"
+          ],
+          "link": "https://leapcell.medium.com/how-to-build-a-search-engine-from-scratch-in-python-no-external-packages-36cc9e0ba9d0?source=rss------flask-5",
+          "similarity_score": 0.8754397630691528,
+          "source": "Medium",
+          "title": "How to Build a Search Engine from Scratch in Python No External Packages"
+        },
+        {
+          "credibility_score": 60,
+          "id": 2,
+          "labels": [
+            "Python Programming"
+          ],
+          "link": "https://medium.com/@joshhms/pythonic-leap-a-developers-guide-from-3-9-to-the-future-of-3-13-e3bcc2a86833?source=rss------scripting-5",
+          "similarity_score": 0.8738991618156433,
+          "source": "Medium",
+          "title": "Pythonic Leap A Developers Guide from 39 to the Future of 313"
+        },
+        {
+          "credibility_score": 60,
+          "id": 3,
+          "labels": [
+            "Data Visualization",
+            "Python Programming",
+            "Data Science"
+          ],
+          "link": "https://ronnie-joshua.medium.com/why-matplotlib-beat-dashboards-in-the-israel-iran-2025-war-a-fun-look-at-the-12-day-defense-9e5a3302af2b?source=rss------matplotlib-5",
+          "similarity_score": 0.8512348532676697,
+          "source": "Medium",
+          "title": "Why Matplotlib Beat Dashboards in the IsraelIran 2025 War A Fun Look at the 12Day Defense"
+        },
+        {
+          "credibility_score": 60,
+          "id": 4,
+          "labels": [
+            "Python Programming",
+            "Data Analysis",
+            "Data Science"
+          ],
+          "link": "https://medium.com/@bhagyarana80/5-powerful-pandas-tricks-every-python-developer-should-know-with-real-examples-7c96ee3c600c?source=rss------pandas-5",
+          "similarity_score": 0.8066994547843933,
+          "source": "Medium",
+          "title": "5 Powerful Pandas Tricks Every Python Developer Should Know With Real Examples"
+        },
+        {
+          "credibility_score": 90,
+          "id": 5,
+          "labels": [
+            "Python Programming",
+            "Data Science",
+            "Data Analysis"
+          ],
+          "link": "https://www.kaggle.com/datasets/chinmayadatt/dataset-python-question-answer",
+          "similarity_score": 0.8060381412506104,
+          "source": "Kaggle",
+          "title": "Dataset_Python_Question_Answer"
+        },
+        {
+          "credibility_score": 60,
+          "id": 6,
+          "labels": [
+            "Python Programming"
+          ],
+          "link": "https://medium.com/@denis.volokh/the-circular-import-trap-in-python-and-how-to-escape-it-9fb22925dab6?source=rss------flask-5",
+          "similarity_score": 0.7964524030685425,
+          "source": "Medium",
+          "title": "The Circular Import Trap in Python and How to Escape It"
+        }
+      ],
+      "certifications": [
+        {
+          "link": "https://www.youtube.com/watch?v=yFoVs3_wvPo",
+          "platform": "YouTube",
+          "similarity_score": 0.8860905170440674,
+          "title": "Python Pandas Full Course  Learn in 6 hours  Pandas for Data Science and Analysis  Amit Thinks"
+        },
+        {
+          "link": "https://www.youtube.com/watch?v=tRKeLrwfUgU",
+          "platform": "YouTube",
+          "similarity_score": 0.8621737957000732,
+          "title": "Pandas for Data Science in 20 Minutes  Python Crash Course"
+        }
+      ],
+      "projects": [
+        {
+          "link": "https://www.youtube.com/watch?v=9GvnrQv138s",
+          "platform": "YouTube",
+          "similarity_score": 0.8712338805198669,
+          "title": "Data Visualization Python What is Matplotlib in Python with example  Matplotlib Tutorial"
+        },
+        {
+          "link": "https://www.youtube.com/watch?v=QUT1VHiLmmI",
+          "platform": "YouTube",
+          "similarity_score": 0.8618288040161133,
+          "title": "Python NumPy Tutorial for Beginners"
+        },
+        {
+          "link": "https://www.youtube.com/watch?v=mIVB-SNycKI",
+          "platform": "YouTube",
+          "similarity_score": 0.8532537221908569,
+          "title": "How to Run Python in Visual Studio Code on Windows 1011  2025 Update  Python in VSCode"
+        },
+        {
+          "link": "https://www.youtube.com/watch?v=mkYBJwX_dMs",
+          "platform": "YouTube",
+          "similarity_score": 0.8224117755889893,
+          "title": "Learn how to use PANDAS in Python in 15 minutes  with 10 real examples"
+        }
+      ],
+      "query": "python",
+      "total_articles": 6,
+      "total_videos": 10,
+      "videos": [
+        {
+          "credibility_score": 75,
+          "id": 1,
+          "labels": [
+            "Python Programming",
+            "Data Visualization",
+            "Data Science"
+          ],
+          "link": "https://www.youtube.com/watch?v=D0D4Pa22iG0",
+          "similarity_score": 0.8836709260940552,
+          "source": "YouTube",
+          "title": "Streamlit The Fastest Way To Build Python Apps"
+        },
+        {
+          "credibility_score": 75,
+          "id": 2,
+          "labels": [
+            "Data Visualization",
+            "Python Programming",
+            "Data Science"
+          ],
+          "link": "https://www.youtube.com/watch?v=4O_o53ag3ag",
+          "similarity_score": 0.8831068277359009,
+          "source": "YouTube",
+          "title": "7 Python Data Visualization Libraries in 15 minutes"
+        },
+        {
+          "credibility_score": 75,
+          "id": 3,
+          "labels": [
+            "Data Visualization",
+            "Data Science",
+            "Python Programming"
+          ],
+          "link": "https://www.youtube.com/watch?v=9GvnrQv138s",
+          "similarity_score": 0.8712338805198669,
+          "source": "YouTube",
+          "title": "Data Visualization Python What is Matplotlib in Python with example  Matplotlib Tutorial"
+        },
+        {
+          "credibility_score": 75,
+          "id": 4,
+          "labels": [
+            "Exploratory Data Analysis",
+            "Data Science",
+            "Python Programming"
+          ],
+          "link": "https://www.youtube.com/watch?v=xi0vhXFPegw",
+          "similarity_score": 0.86483234167099,
+          "source": "YouTube",
+          "title": "Exploratory Data Analysis with Pandas Python"
+        },
+        {
+          "credibility_score": 75,
+          "id": 5,
+          "labels": [
+            "Data Analysis",
+            "Data Science",
+            "Data Visualization"
+          ],
+          "link": "https://www.youtube.com/watch?v=tRKeLrwfUgU",
+          "similarity_score": 0.8621737957000732,
+          "source": "YouTube",
+          "title": "Pandas for Data Science in 20 Minutes  Python Crash Course"
+        },
+        {
+          "credibility_score": 75,
+          "id": 6,
+          "labels": [
+            "Data Analysis",
+            "Data Science",
+            "Python Programming"
+          ],
+          "link": "https://www.youtube.com/watch?v=QUT1VHiLmmI",
+          "similarity_score": 0.8618288040161133,
+          "source": "YouTube",
+          "title": "Python NumPy Tutorial for Beginners"
+        },
+        {
+          "credibility_score": 75,
+          "id": 7,
+          "labels": [
+            "Python Programming",
+            "Data Science"
+          ],
+          "link": "https://www.youtube.com/watch?v=mIVB-SNycKI",
+          "similarity_score": 0.8532537221908569,
+          "source": "YouTube",
+          "title": "How to Run Python in Visual Studio Code on Windows 1011  2025 Update  Python in VSCode"
+        },
+        {
+          "credibility_score": 75,
+          "id": 8,
+          "labels": [
+            "Data Science",
+            "Data Analysis",
+            "Data Visualization"
+          ],
+          "link": "https://www.youtube.com/watch?v=POe1cufDWFs",
+          "similarity_score": 0.8282256126403809,
+          "source": "YouTube",
+          "title": "Data Science with Python Pandas by Athena Kan"
+        },
+        {
+          "credibility_score": 75,
+          "id": 9,
+          "labels": [
+            "Data Analysis",
+            "Python Programming",
+            "Data Science"
+          ],
+          "link": "https://www.youtube.com/watch?v=mkYBJwX_dMs",
+          "similarity_score": 0.8224117755889893,
+          "source": "YouTube",
+          "title": "Learn how to use PANDAS in Python in 15 minutes  with 10 real examples"
+        },
+        {
+          "credibility_score": 75,
+          "id": 10,
+          "labels": [
+            "Python Programming",
+            "Data Science",
+            "Data Analysis"
+          ],
+          "link": "https://www.youtube.com/watch?v=9F6zAuYtuFw",
+          "similarity_score": 0.8184789419174194,
+          "source": "YouTube",
+          "title": "Python Scripting Tutorial for Beginners  Python Tutorial  Python Training  Edureka"
+        }
+      ]
+    },
+    "created_at": "2025-11-12T00:11:06.518893",
+    "query": "python"
+  }
+}
